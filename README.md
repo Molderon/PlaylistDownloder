@@ -26,5 +26,5 @@ pip install -r requirements.txt
 ```  
 3. Usage
 ```bash
-$ python PlaylistDownloader.py
+python PlaylistDownloader.py
 ```
