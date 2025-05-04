@@ -3,7 +3,7 @@
 Python script to download entire YouTube playlists as high-quality MP3 files.
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-
+> ✅ **Cross-platform**: Works on **Linux**, **Windows**, and **macOS**
 ## Features
 
 - 🎵 Batch download entire YouTube playlists
@@ -12,7 +12,6 @@ Python script to download entire YouTube playlists as high-quality MP3 files.
 ## Requirements
 
 - Python 3.7+
-- __(optional) FFmpeg ([Installation Guide](https://ffmpeg.org/download.html))__
 
 ## Installation
 
