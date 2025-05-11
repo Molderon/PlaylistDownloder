@@ -15,7 +15,7 @@ Python script to download entire YouTube playlists as high-quality MP3 files.
 
 ## Installation
 
-**1. Clone the repository:**
+**1. Download or Clone the repository:**
 ```bash
 git clone https://github.com/yourusername/PlaylistDownloader.git
 ```
