@@ -33,7 +33,7 @@ python PlaylistDownloader.py
 ### 🧰 Requirements
 - ✅ Ability to **read and click things**  
 - ✅ Basic knowledge of copy/paste (you got this!)
-
+- ✅ Extracting files from archives.
 ---
 
 ### 🚀 Quick Start 
