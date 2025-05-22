@@ -38,7 +38,7 @@ python PlaylistDownloader.py
 
 ### 🚀 Quick Start 
 
-#### 📥 Step 1 — [Download me](https://github.com/Molderon/PlaylistDownloder/tree/main/Windows)  
+#### 📥 Step 1 — [Download Мe!](https://github.com/Molderon/PlaylistDownloder/tree/main/Windows)  
 > 💡 Save it somewhere easy to find, like your **Desktop** or **Downloads** folder.
 
 ---
