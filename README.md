@@ -27,3 +27,33 @@ pip install -r requirements.txt
 ```bash
 python PlaylistDownloader.py
 ```
+
+<br><br>
+# 🪟 Windows  `.exe` Guide
+### 🧰 Requirements
+- ✅ Ability to **read and click things**  
+- ✅ Basic knowledge of copy/paste (you got this!)
+
+---
+
+### 🚀 Quick Start 
+
+#### 📥 Step 1 — [Download me](https://github.com/Molderon)  
+> 💡 Save it somewhere easy to find, like your **Desktop** or **Downloads** folder.
+
+---
+
+#### 🔗 Step 2 — Paste Your Playlist URL
+- Open the `.exe` file  
+- Copy a YouTube **playlist URL**  
+- Right-click or use **Shift + Ctrl + V** to paste into the terminal
+
+---
+
+#### ⏎ Step 3 — Press Enter
+- Press `Enter` to start downloading your playlist in glorious MP4 🎉
+
+---
+
+#### 🧙‍♂️ Step 4 — There is no step 4
+- That’s it. You’re done. 🥳
