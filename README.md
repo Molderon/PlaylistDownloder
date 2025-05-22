@@ -1,6 +1,6 @@
-# YouTube Playlist to MP3 Downloader
+# YouTube Playlist to MP4 Downloader
 
-Python script to download entire YouTube playlists as high-quality MP3 files.
+Python script to download entire YouTube playlists as high-quality MP4 files.
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 > ✅ **Cross-platform**: Works on **Linux**, **Windows**, and **macOS**
